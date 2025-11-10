@@ -14,7 +14,7 @@ This library implements steganography using Discrete Cosine Transform (DCT) on 8
 ## Installation
 
 ```bash
-go get github.com/tuomass/emganography-go
+go get github.com/tuomas-lb/emganography
 ```
 
 ## Quick Start
