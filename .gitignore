@@ -1,0 +1,63 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.html
+coverage.txt
+
+# Go workspace file
+go.work
+
+# Build artifacts
+/bin/
+/dist/
+/build/
+
+# Compiled binaries (from cmd/ directories)
+emgtool
+test_dct
+test_dct_simple
+debug_embed
+test_format
+prove_identity
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+/temp/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Cursor files
+.cursor
+
+# Test output files
+*.jpg
+*.png
+!testdata/*.jpg
+!testdata/*.png
+
+# Keep testdata images but ignore generated test outputs
+testdata/output.*
+testdata/*_test.*
+testdata/*_output.*
+
