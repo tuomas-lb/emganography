@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/tuomass/emganography-go/internal/dct"
-	"github.com/tuomass/emganography-go/internal/imgutil"
-	"github.com/tuomass/emganography-go/internal/ycbcr"
+	"github.com/tuomas-lb/emganography/internal/dct"
+	"github.com/tuomas-lb/emganography/internal/imgutil"
+	"github.com/tuomas-lb/emganography/internal/ycbcr"
 )
 
 // createTestImage creates a simple test image for testing

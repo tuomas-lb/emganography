@@ -3,7 +3,7 @@ package ecc
 import (
 	"errors"
 
-	"github.com/tuomass/emganography-go/internal/bitstream"
+	"github.com/tuomas-lb/emganography/internal/bitstream"
 )
 
 var (

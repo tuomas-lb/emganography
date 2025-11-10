@@ -1,3 +1,3 @@
-module github.com/tuomass/emganography-go
+module github.com/tuomas-lb/emganography
 
 go 1.25.1

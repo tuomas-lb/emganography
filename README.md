@@ -27,7 +27,7 @@ package main
 import (
     "fmt"
     "os"
-    "github.com/tuomass/emganography-go/pkg/emganography"
+    "github.com/tuomas-lb/emganography/pkg/emganography"
 )
 
 func main() {
